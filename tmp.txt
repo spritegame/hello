@@ -13,5 +13,5 @@ spritegame 1
 spritegame 2
 allin.dev2
 
-
+allin.dev2 3
 spritegame 3
