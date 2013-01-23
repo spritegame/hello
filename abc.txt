@@ -1,1 +1,3 @@
 spritegame abc init
+
+allin.dev 1
