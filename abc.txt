@@ -1,1 +1,3 @@
 spritegame abc init
+
+spritegame abc 1
